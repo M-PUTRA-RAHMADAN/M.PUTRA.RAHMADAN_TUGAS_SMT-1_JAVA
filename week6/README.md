@@ -6,21 +6,6 @@
 * **Class / Attendance No.:** 1I / 23
 
 
-## Project Structure
-
-```
-.
-├── README.md                          (this report)
-├── code/
-│   ├── examcase.java                            (Experiment 1)
-│   ├── LogicalOperatorWifiAttendanceNo.java     (Experiment 2)
-│   ├── LabAcces.java                            (Experiment 3)
-│   ├── assigmentNested.java                     (Task 1)
-│   └── Task2AssistantSelectionAttendanceNo.java (Task 2)
-└── images/                            (flowchart and output screenshots)
-```
-
----
 
 ## 1: PRACTICUM OBJECTIVES
 
